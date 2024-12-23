@@ -1,0 +1,14 @@
+
+.mw-90{
+    max-width: 90vw;
+}
+.df_-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.card__width{
+    width: 800px;
+}
